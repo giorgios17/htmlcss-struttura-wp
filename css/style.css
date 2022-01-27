@@ -18,7 +18,7 @@ header{
 
 .section-top{
     background-color: #e1d67a;
-    height: 420px;
+    height: 450px;
     margin-bottom: 25px;
 }
 
@@ -41,14 +41,14 @@ header{
 .side{
     background-color: #abcfe7;
     width: 20%;
-    height: 530px;
+    height: 500px;
     float: left;
 }
 
 .center{
     background-color: #abcfe7;
     width: 57%;
-    height: 530px;
+    height: 500px;
     float: left;
     margin-left: 1.5%;
     margin-right: 1.5%;
