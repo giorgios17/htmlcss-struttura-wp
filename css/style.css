@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+}
+
+main{
+    width: 70%;
+    margin:auto;
+}
+
+header{
+    background-color: #e579e6;
+    height: 50px;
+}
